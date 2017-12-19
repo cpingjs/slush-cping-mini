@@ -1,14 +1,14 @@
-# Slush Slush-up-vue [![Build Status](https://secure.travis-ci.org/735183844@qq.com/slush-slush-up-vue.png?branch=master)](https://travis-ci.org/735183844@qq.com/slush-slush-up-vue) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-up-vue.png)](http://badges.enytc.com/for/npm/slush-slush-up-vue)
+# Slush Slush-up-vue [![Build Status](https://secure.travis-ci.org/735183844@qq.com/slush-cping-vue.png?branch=master)](https://travis-ci.org/735183844@qq.com/slush-cping-vue) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-cping-vue.png)](http://badges.enytc.com/for/npm/slush-cping-vue)
 
 > 
 
 
 ## Getting Started
 
-Install `slush-slush-up-vue` globally:
+Install `slush-cping-vue` globally:
 
 ```bash
-$ npm install -g slush-slush-up-vue
+$ npm install -g slush-cping-vue
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-up-vue
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-up-vue
+$ mkdir my-slush-cping-vue
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-up-vue && slush slush-up-vue
+$ cd my-slush-cping-vue && slush slush-up-vue
 ```
 
 ## Getting To Know Slush
@@ -35,10 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Contributing
 
-See the [CONTRIBUTING Guidelines](https://github.com/735183844@qq.com/slush-slush-up-vue/blob/master/CONTRIBUTING.md)
+See the [CONTRIBUTING Guidelines](https://github.com/735183844@qq.com/slush-cping-vue/blob/master/CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/735183844@qq.com/slush-slush-up-vue/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/735183844@qq.com/slush-cping-vue/issues).
 
 ## License 
 
